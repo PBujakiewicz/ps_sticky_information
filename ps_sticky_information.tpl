@@ -16,8 +16,7 @@
             {else}
                 white
             {/if};
-    z-index: 8000;
-    opacity: 0.5;"
+    z-index: 8000;"
 >
     <p>
         {if isset($ps_sticky_information_txt) && $ps_sticky_information_txt}
